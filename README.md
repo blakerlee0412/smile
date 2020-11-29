@@ -1,1 +1,1 @@
-# smile.html
+# smile
